@@ -1,0 +1,16 @@
+{
+    "name": "beryl/healthcare_system",
+    "description": "healthcare_system academic project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "berylchepkemoi",
+            "email": "berylchepkemoi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
